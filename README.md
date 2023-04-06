@@ -1,34 +1,44 @@
 # end-pi-klippers
 remontel’s ‘Ender 3 v2 running Klipper on Raspberry Pi 3b’ Saga (Working Title)
 
-tracking (almost) all work done to my Ender 3 v2. everything here is heavily borrowed from amazing creators within the community. ill do my best to credit ans reference as needed. anything custom is free to use and yours to keep. luv u.
-
+tracking (almost) all work done to my Ender 3 v2. everything here is heavily borrowed from amazing creators within the community. ill do my best to credit ans reference as needed. anything custom is free to use and yours to keep. luv u.3
 
 ## Components
 
+### Printer
 
+   - Ender 3 v2
+    
+### Firmware
+
+   - Klipper
+   - Mainsail
+   - KlipperScreen
 
 ### MCUs
 
+   1. Raspberry Pi B _(running klipper)_
+   2. BTT SKR Pico _(main)_
+   3. Raspberry Pi Pico _(running  bed accelerometer)_
+   4. Creality v4.2.7 _(might remove)_
 
+ ### Printer Upgrades
 
-    1. [Raspberry Pi B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
-    2. BTT SKR Pico (main)
-    3. Raspberry Pi Pico (running  bed accelerometer)
-    4. Creality v4.2.7 (might remove)
-    5. 
+#### Product Pages
+  _a few amazon links when I couldnt find manufactorers page. fyi almost everything bought on amazon_
 
- ### Upgrades
-
-Product Pages
 
   - [Raspberry Pi B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
   - [BTT SKR Pico v1](https://biqu.equipment/products/btt-skr-pico-v1-0)
   - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+  - [Creality Silent Board v4.2.7](https://www.creality3dofficial.com/products/creality-silent-mainboard-v4-2-7)
+  - [BTT PI TFT70 Screen](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board?variant=39337700786274)
   - [E3D Revo Hemera XS](https://e3d-online.com/products/revo-hemera-xs)
   - [Creality Dual Z-Axis](https://www.amazon.com/Official-Creality-Upgrade-Stepper-3D/dp/B09N8QQDSP) 
-  - (Creality 4040 Y Axis Belt Tensioner)[https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details] 
-  - (Creality 2020 Profile X-Axis Belt Tensioner)[https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details]
+  - [BTT BL Touch v3.1](https://biqu.equipment/products/antclabs-bl-touch-v3-1-original-auto-leveling-sensor-premium-3d-kossel-printer-reprap-for-skr-v1-3-3d-printer-parts?variant=39564432572514)
+
+  - [Creality 4040 Y Axis Belt Tensioner](https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details) 
+  - [Creality 2020 Profile X-Axis Belt Tensioner](https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   - [Gulfcoast Robotics Build Plate and Silicon Heater Bed](https://gulfcoast-robotics.com/products/aluminum-build-plate-and-24v-200w-silicone-heater-for-heated-bed-creality-ender-3)
   - [Gulfcoast Robotics 3-Point Bed Level Y-Axis Carriage](https://gulfcoast-robotics.com/products/modular-y-carriage-plate-upgrade-creality-ender-3-point-leveling)
   - [Z-Axis Oldham Coupling Coupler](https://www.amazon.com/gp/product/B0B8MS2DSD?ie=UTF8&th=1) 
@@ -37,8 +47,6 @@ Product Pages
 
 
 ## Resources
-
-
 
 - [SKR Pico Github](https://github.com/bigtreetech/SKR-Pico)
 - [Raspberry Pi B Documentation](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
