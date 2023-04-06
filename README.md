@@ -48,26 +48,10 @@ Product Pages
 - [Build Plate and Heater Bed Install](https://letsprint3d.net/how-to-install-the-gulfcoast-robotics-heated-bed-ender-3-5/)
 - [3-Point Y-Axis Carriage Install](https://letsprint3d.net/guide-how-to-upgrade-the-y-carriage-plate-ender-3/)
 
-
-
- ## Mapping
-
- ### Creality v4.2.7
-
-  - Extruder
-
- ### BTT SKR Pico
-
-  - Dual Z Motors
-
- ### RaPi Pico
-
-  - Accelerometer
-
-
 ## Citations
 
 I've borrowed heavily from these repos
 
 [simeonpashley/klipper_config](https://github.com/simeonpashley/klipper_config)
+
 [rootiest/zippy-klipper_config](https://github.com/rootiest/zippy-klipper_config)
