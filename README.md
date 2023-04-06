@@ -27,8 +27,8 @@ Product Pages
   - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
   - [E3D Revo Hemera XS](https://e3d-online.com/products/revo-hemera-xs)
   - [Creality Dual Z-Axis](https://www.amazon.com/Official-Creality-Upgrade-Stepper-3D/dp/B09N8QQDSP) 
-  - [Creality 4040 Y Axis Belt Tensioner][https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details] 
-  - [Creality 2020 Profile X-Axis Belt Tensioner][https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details]
+  - (Creality 4040 Y Axis Belt Tensioner)[https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details] 
+  - (Creality 2020 Profile X-Axis Belt Tensioner)[https://www.amazon.com/dp/B08FM19J5D?psc=1&ref=ppx_yo2ov_dt_b_product_details]
   - [Gulfcoast Robotics Build Plate and Silicon Heater Bed](https://gulfcoast-robotics.com/products/aluminum-build-plate-and-24v-200w-silicone-heater-for-heated-bed-creality-ender-3)
   - [Gulfcoast Robotics 3-Point Bed Level Y-Axis Carriage](https://gulfcoast-robotics.com/products/modular-y-carriage-plate-upgrade-creality-ender-3-point-leveling)
   - [Z-Axis Oldham Coupling Coupler](https://www.amazon.com/gp/product/B0B8MS2DSD?ie=UTF8&th=1) 
