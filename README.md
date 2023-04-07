@@ -52,6 +52,8 @@ tracking (almost) all work done to my Ender 3 v2. everything here is heavily bor
 - [Raspberry Pi Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 - [Revo Hemera XS Datasheet](https://e3d-online.zendesk.com/hc/en-us/articles/5911118647709-Revo-Hemera-XS-Datasheet)
 - [Hemera Ender-3 v2 Install](https://e3d-online.zendesk.com/hc/en-us/articles/360018062117-Hemera-Ender-3-V2-Ender-3-CR10-CR10-V2-Upgrade-Guide-Edition-2-)
+- [Hemera Help Center](https://e3d-online.zendesk.com/hc/en-us/sections/6157569994909-Hemera-Hemera-XS)
+- [Hemera Assembly Guide](https://e3d-online.zendesk.com/hc/en-us/articles/360017204078-Hemera-Direct-V6-Assembly-Guide-Edition-2-)
 - [Build Plate and Heater Bed Install](https://letsprint3d.net/how-to-install-the-gulfcoast-robotics-heated-bed-ender-3-5/)
 - [3-Point Y-Axis Carriage Install](https://letsprint3d.net/guide-how-to-upgrade-the-y-carriage-plate-ender-3/)
 
