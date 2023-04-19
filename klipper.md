@@ -3,6 +3,10 @@
 
 ## Process Notes
 
+### 4/18/23
+
+Doing a little research, I've decided to install an external mosfet to handle the bed heater. [I grabbed this one off of Amazon](https://www.amazon.com/HiLetgo-Power-Module-Expansion-Printer/dp/B07CGN7NCG?crid=249ICESN2PVOT&keywords=24v+external+mosfet+3d+printer&qid=1681880631&sprefix=24v+external+mosfet+3d+printer%2Caps%2C144&sr=8-4). So, this will get rid of the Creality board. Now, I will need to use the CAN board in order to use the Z-tilt feature. But, as of rn, I'm going to just use the SKR Pico dual ports. That way I have a checkpoint to do some troubleshooting.
+
 ### 4/11/23
 
 Okay, so one of the big changes I'm making, right now, is dual z in order to use Klipper's Z-Tilt feature [1]. Now for the board, I bought the SKR Pico. Which sucks because it doesnt have dual-z steppers. Just dual-z ports. As of right now, I have a SKR Pico, Creality v4.2.7, and a BTT EBB42 CAN. Obviously there are a myriad of ways to get this setup. As of right now, my biggest pain point is the head ache to figure it out. Here are my options
